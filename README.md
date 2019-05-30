@@ -1,31 +1,26 @@
-# Airbnb-Melbourne-Open-Data
+# Airbnb Australian Market Analysis
 
-Melbourne was announced as 6th on the list of top ten cities for users globally in 2016 and has been one of the top cities for listings globally since then. As part of the InsideAirbnb initiative, this dataset describes the listing activity of homestays in Melbourne, VIC, Australia. The dataset is updated monthly.
+## Justification/Background 
 
+Vacation rentals, also called short-stay rentals, are booming in Australia. Lots of us have used or at least know someone has used vacation rental apps like Airbnb, HomeAway, etc. Melbourne was announced as [6th](https://www.businessinsider.com.au/heres-how-big-airbnb-is-in-sydney-and-how-it-compares-to-the-rest-of-the-world-2016-5) on the list of top ten cities for users globally in 2016 and has been one of the top cities for listings globally since then. 
 
-### Content
+As a data analyst who also travells and hosts on Airbnb, I wanted to know what the market looks like in Melbourne and Australia, how other hosts are doing, the most popular locations, amentities and so on.
 
-The following Airbnb activity is included in this Melbourne Airbnb dataset:
+## Melbourne Market Analysis
 
- - Listings: detailed listings data including full descriptions and average review score; 
- - Calendar: detailed calendar data for listings, including listing id and the price and availability for that day;   
- - Reviews, detailed review data for listings including unique id for each reviewer and detailed comments; 
- -  Listings-Summary: summary information and metrics for listings (good for visualisations);   
- - Reviews-Summary: summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing);   
- - Neigborhoods: neighborhood list for geo filter. Sourced from city or open source GIS files;
+I started with analyzing the data of listings in Melbourne. From Aug to Dec 2018, I found that:
 
+- Steady supply: every month there were around 20K+ listings hosted by 14k+ hosts with an average price A$150 across 250+ suburbs in Melbourne.
+- 90% of the listings accommodate within 6 guests and 1 house in Melbourne can accommodate 21 guests.
+- 83% hosts have only 1 listing, while professional hosts can manage more than 100 listings.
+- 4% hosts are international and hosting from outside Australia.
+- If we put the hosts into *year groups* based on since which year they had started hosting, the average review scores of all hosts in the year groups decreased by 0.05/5.00 each year.
+- More interesting findings..
 
-### Inspiration
-
- - How is Airbnb really being used in and affecting your neighborhoods?
- - Can you describe the vibe of each Melbourne neighborhood using listing descriptions?
- -  What are the busiest times of the year to visit Melbourne?By how much do prices spike? 
- -  Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to
-   Melbourne?
-
-### Acknowledgements
-
-This dataset is part of InsideAirbnb, and the original source can be found [here][1].
+[Analysis Notebook on Kaggle](https://www.kaggle.com/tylerx/melbourne-vacation-rental-market-analysis)
+[Power BI Visualization](https://app.powerbi.com/view?r=eyJrIjoiMTdiZGViZTItNWRhZC00NDY5LTkwMDEtNTQxZDY2OGZmOWVlIiwidCI6IjBlNWJmM2NmLTFmZjQtNDZiNy05MTc2LTUyYzUzOGMyMmE0ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3655a29acb3c0494a39e)
 
 
-  [1]: http://insideairbnb.com
+## Next 
+
+I'll analyze other major markets in Australia including Sydney, Brisbane, etc., and then analyze the overall Australian market.
