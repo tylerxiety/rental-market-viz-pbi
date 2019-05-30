@@ -19,6 +19,8 @@ I started with analyzing the data of listings in Melbourne. From Aug to Dec 2018
 
 [Analysis Notebook on Kaggle](https://www.kaggle.com/tylerx/melbourne-vacation-rental-market-analysis)
 
+[Detailed description of the dataset also on Kaggle](https://www.kaggle.com/tylerx/melbourne-airbnb-open-data)
+
 [Power BI Visualization](https://app.powerbi.com/view?r=eyJrIjoiMTdiZGViZTItNWRhZC00NDY5LTkwMDEtNTQxZDY2OGZmOWVlIiwidCI6IjBlNWJmM2NmLTFmZjQtNDZiNy05MTc2LTUyYzUzOGMyMmE0ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3655a29acb3c0494a39e)
 
 
