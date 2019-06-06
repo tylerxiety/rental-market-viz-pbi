@@ -17,7 +17,16 @@ I started with analyzing the data of listings in Melbourne. From Aug to Dec 2018
 - If we put the hosts into *year groups* based on since which year they had started hosting, the average review scores of all hosts in the year groups decreased by 0.05/5.00 each year.
 - More interesting findings..
 
+## Discover Sentiment in Airbnb Reviews
+
+Analyzed sentiment in reviews using tf-idf (term frequency–inverse document frequency) matrix and NMF (non-negative matrix factorization) analysis.
+
+Found that:
+- Most of the reviews have a positive sentiment.
+- Most complaints are about cancellation.
+
 [Analysis Notebook on Kaggle](https://www.kaggle.com/tylerx/melbourne-vacation-rental-market-analysis)
+[Discover Sentiment in Airbnb Reviews](https://www.kaggle.com/tylerx/discover-sentiment-in-airbnb-reviews)
 
 [Detailed description of the dataset also on Kaggle](https://www.kaggle.com/tylerx/melbourne-airbnb-open-data)
 
