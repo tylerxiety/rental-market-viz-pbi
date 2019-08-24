@@ -30,7 +30,7 @@ Found that:
 
 [Detailed description of the dataset also on Kaggle](https://www.kaggle.com/tylerx/melbourne-airbnb-open-data)
 
-[Power BI Visualization](https://app.powerbi.com/view?r=eyJrIjoiMTdiZGViZTItNWRhZC00NDY5LTkwMDEtNTQxZDY2OGZmOWVlIiwidCI6IjBlNWJmM2NmLTFmZjQtNDZiNy05MTc2LTUyYzUzOGMyMmE0ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3655a29acb3c0494a39e)
+[Power BI Visualization](https://app.powerbi.com/view?r=eyJrIjoiYjZjNmZiMzAtYzQ4OC00ODNjLThiMzctODI1NGRhODFmZDgyIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9&pageName=ReportSection3655a29acb3c0494a39e)
 
 
 ## Next 
