@@ -26,6 +26,7 @@ Found that:
 - Most complaints are about cancellation.
 
 [Analysis Notebook on Kaggle](https://www.kaggle.com/tylerx/melbourne-vacation-rental-market-analysis)
+
 [Discover Sentiment in Airbnb Reviews](https://www.kaggle.com/tylerx/discover-sentiment-in-airbnb-reviews)
 
 [Detailed description of the dataset also on Kaggle](https://www.kaggle.com/tylerx/melbourne-airbnb-open-data)
