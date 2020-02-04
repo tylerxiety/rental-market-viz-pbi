@@ -8,7 +8,7 @@ As a data analyst who also travells and hosts on Airbnb, I wanted to know what t
 
 ## Melbourne Market Analysis
 
-I started with analyzing the data of listings in Melbourne. From Aug to Dec 2018, I found that:
+I started with analyzing the data of listings in Melbourne. From Aug 2018 to Jul 2019, I found that:
 
 - Steady supply: every month there were around 20K+ listings hosted by 14k+ hosts with an average price A$150 across 250+ suburbs in Melbourne.
 - 90% of the listings accommodate within 6 guests and 1 house in Melbourne can accommodate 21 guests.
