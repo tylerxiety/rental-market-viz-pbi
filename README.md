@@ -32,6 +32,7 @@ Found that:
 [Discover Sentiment in Airbnb Reviews](https://www.kaggle.com/tylerx/discover-sentiment-in-airbnb-reviews)
 
 [Interactive Power BI Visualization](https://app.powerbi.com/view?r=eyJrIjoiYjZjNmZiMzAtYzQ4OC00ODNjLThiMzctODI1NGRhODFmZDgyIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9&pageName=ReportSection3655a29acb3c0494a39e)
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjZjNmZiMzAtYzQ4OC00ODNjLThiMzctODI1NGRhODFmZDgyIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 [Detailed description of the dataset also on Kaggle](https://www.kaggle.com/tylerx/melbourne-airbnb-open-data)
 
