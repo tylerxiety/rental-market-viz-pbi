@@ -6,4 +6,4 @@
 
 [English version](https://github.com/tylerxty/Rental-Market-Analysis/blob/master/README.en.md)
 
-<iframe width="1000" height="650" src="https://app.powerbi.com/view?r=eyJrIjoiYjZjNmZiMzAtYzQ4OC00ODNjLThiMzctODI1NGRhODFmZDgyIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1000" height="680" src="https://app.powerbi.com/view?r=eyJrIjoiYjZjNmZiMzAtYzQ4OC00ODNjLThiMzctODI1NGRhODFmZDgyIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
