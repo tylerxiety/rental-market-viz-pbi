@@ -2,7 +2,7 @@
 
 涵盖了墨尔本3万+在爱彼迎上的房源信息和评价. 
 
-报表分为四页, 涵盖租金自估, 市场概览, 房东画像, 价格信息的数据和分析.
+报表分为租金自估, 市场概览两个部分，提供交互式数据分析.
 
 [English version](https://github.com/tylerxty/Rental-Market-Analysis/blob/master/README.en.md)
 
