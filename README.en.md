@@ -11,7 +11,7 @@ As a data analyst who also travells and hosts on Airbnb, I wanted to know what t
 I started with analyzing the data of listings in Melbourne. From Aug 2018 to Jul 2019, I found that:
 
 - Steady supply: every month there were around 20K+ listings hosted by 14k+ hosts with an average price A$150 across 250+ suburbs in Melbourne.
-- 90% of the listings accommodate within 6 guests and 1 house in Melbourne can accommodate 21 guests.
+- 90% of the listings accommodate within 6 guests, and 1 house in Melbourne can accommodate as many as 21 guests.
 - 83% hosts have only 1 listing, while professional hosts can manage more than 100 listings.
 - 4% hosts are international and hosting from outside Australia.
 - If we put the hosts into *year groups* based on since which year they had started hosting, the average review scores of all hosts in the year groups decreased by 0.05/5.00 each year.
