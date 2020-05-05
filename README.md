@@ -2,6 +2,8 @@
 
 <iframe width="1000" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=fcfa1094-e2c3-4ba7-a536-558008d67c7b&autoAuth=true&ctid=78eda334-e917-4435-b235-858b721ecff1&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWF1c3RyYWxpYS1lYXN0LWEtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
+Power BI down, will be back soon.
+
 
 # 墨尔本短租房源市场
 
