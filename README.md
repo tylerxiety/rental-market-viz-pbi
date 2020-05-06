@@ -17,6 +17,6 @@
 
 [English version](https://github.com/tylerxty/Rental-Market-Analysis/blob/master/README.en.md)
 
-<iframe width="933" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiNDc5NjI3OGYtODM0Ni00OTI4LWJmZjQtYzMzNTE0YjNmOTczIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1000" height="650" src="https://app.powerbi.com/view?r=eyJrIjoiNDc5NjI3OGYtODM0Ni00OTI4LWJmZjQtYzMzNTE0YjNmOTczIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 <br>
 数据结构和分析代码详见GitHub主页.
