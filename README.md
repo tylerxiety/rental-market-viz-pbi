@@ -19,7 +19,7 @@
 
 <iframe width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNDc5NjI3OGYtODM0Ni00OTI4LWJmZjQtYzMzNTE0YjNmOTczIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-数据结构和分析代码详见GitHub主页.
+数据结构和分析代码详见[GitHub主页](https://github.com/tylerxiety/Rental-Market-Analysis).
 
 <br>
 
