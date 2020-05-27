@@ -5,7 +5,7 @@
 
 <iframe width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYmFlMmQwNjQtZGU4OS00YzgyLTg1NDUtNzRiMjdiMTBiMTQ0IiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-\*注：Power BI对ArcGIS地图的网页支持故障，替代地图解决中。
+\*注：Power BI对ArcGIS地图的网页支持故障，替代地图解决中。此报表中的ArcGIS地图在Power BI桌面端中仍可用，[移步github页下载](https://raw.githubusercontent.com/tylerxiety/Rental-Market-Analysis/master/ausDashboard.pbix)。
 
 <br>
 
@@ -14,7 +14,7 @@
 分析澳大利亚墨尔本4万+在爱彼迎上的房源信息和评价可得：
 1. 房源数量在2.2万到2.4万间/套之间浮动
 2. 房源平均价格与房源数量呈明显的反相关变化关系
-
+...
 
 
 
