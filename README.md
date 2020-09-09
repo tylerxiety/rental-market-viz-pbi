@@ -3,9 +3,11 @@
 # Australia’s Short-term Rentals Market Overview*
 <br>
 
-<iframe width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYmFlMmQwNjQtZGU4OS00YzgyLTg1NDUtNzRiMjdiMTBiMTQ0IiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<<iframe width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYmFlMmQwNjQtZGU4OS00YzgyLTg1NDUtNzRiMjdiMTBiMTQ0IiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>>
 
-\*注：Power BI对ArcGIS地图的网页支持故障，替代地图解决中。此报表中的ArcGIS地图在Power BI桌面端中仍可用，[移步github页下载](https://raw.githubusercontent.com/tylerxiety/Rental-Market-Analysis/master/ausDashboard.pbix)。
+<iframe width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYmFlMmQwNjQtZGU4OS00YzgyLTg1NDUtNzRiMjdiMTBiMTQ0IiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9&pageName=ReportSectionc3d1c7464b06158f6eb7" frameborder="0" allowFullScreen="true"></iframe>
+
+\*Note：ArcGIS for Power BI is not supported currently. Alterntive solution comming soon.
 
 <br>
 
