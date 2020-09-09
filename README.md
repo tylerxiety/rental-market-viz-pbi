@@ -1,6 +1,6 @@
 <br>
 
-# 澳大利亚短租/民宿市场概览*
+# Australia’s Short-term Rentals Market Overview*
 <br>
 
 <iframe width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYmFlMmQwNjQtZGU4OS00YzgyLTg1NDUtNzRiMjdiMTBiMTQ0IiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
@@ -9,19 +9,9 @@
 
 <br>
 
-# 墨尔本短租房源市场概览
-
-分析澳大利亚墨尔本4万+在爱彼迎上的房源信息和评价可得：
-1. 房源数量在2.2万到2.4万间/套之间浮动
-2. 房源平均价格与房源数量呈明显的反相关变化关系
-...
+# Short-term Rentals Market - Great Melbourne
 
 
 
-<iframe width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNDc5NjI3OGYtODM0Ni00OTI4LWJmZjQtYzMzNTE0YjNmOTczIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODI5NmJhNTYtOWJmOS00ZTVmLTliNjYtYWQ5ZWQzZjhhNDFlIiwidCI6Ijc4ZWRhMzM0LWU5MTctNDQzNS1iMjM1LTg1OGI3MjFlY2ZmMSJ9&pageName=ReportSection023edc328f2f908b1086" frameborder="0" allowFullScreen="true"></iframe>
 
-数据结构和分析代码详见[GitHub主页](https://github.com/tylerxiety/Rental-Market-Analysis).
-
-<br>
-
-[English version](https://github.com/tylerxty/Rental-Market-Analysis/blob/master/README.en.md)
